@@ -4,9 +4,7 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanduc1704/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/doanmanhducz)
 
-
-![Doan Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doanmanhducz&show_icons=true&theme=dracula&hide=contribs,prs,issues)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doanmanhducz&hide=stars,contribs&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/doanmanhducz/Eureka2024WEB">
