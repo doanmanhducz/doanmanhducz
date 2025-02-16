@@ -10,7 +10,7 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/doanmanhducz/Eureka2024WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Eureka2024WEB&theme=radical" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Eureka2024WeB&theme=radical" width="400"/>
   </a>
   <a href="https://github.com/doanmanhducz/YDCC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=YDCC&theme=merko" width="400"/>
