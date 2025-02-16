@@ -11,10 +11,7 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanmanhducz&repo=Eureka2024WEB&theme=radical" />
 </a>    
-<a href="https://github.com/doanmanhducz/YDCC/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=doanmanhducz&repo=YDCC&theme=merko" />
-</a>
+
 
 <a href="https://github.com/doanmanhducz/Pong-Python/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
