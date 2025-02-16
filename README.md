@@ -5,7 +5,7 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanduc1704/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/doanmanhducz)
 
 
-![Doan Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doanmanhducz&show_icons=true&theme=dracula&hide=contribs,prs,issues)
+![Doan Duc's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doanmanhducz&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -20,6 +20,9 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
   </a>
  <a href="https://github.com/doanmanhducz/Cryptography-CP-ABE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Cryptography-CP-ABe&theme=dark" width="400"/>
+  </a>
+   <a href="https://github.com/doanmanhducz/Steganography">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Steganography&theme=tokyonight" width="400"/>
   </a>
 </div>
  
