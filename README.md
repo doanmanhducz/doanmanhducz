@@ -13,13 +13,10 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Eureka2024WeB&theme=radical" width="400"/>
   </a>
   <a href="https://github.com/doanmanhducz/YDCC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=YDCC&theme=merko" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=YDCc&theme=merko" width="400"/>
   </a>
   <a href="https://github.com/doanmanhducz/Pong-Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Pong-Python&theme=gruvbox" width="400"/>
-  </a>
-  <a href="https://github.com/doanmanhducz/LoveP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=LoveP&theme=tokyonight" width="400"/>
   </a>
 </div>
  
