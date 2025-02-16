@@ -19,7 +19,7 @@ My name is Doan Duc, and I am majoring in Information Security. My career orient
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Pong-Python&theme=gruvbox" width="400"/>
   </a>
  <a href="https://github.com/doanmanhducz/Cryptography-CP-ABE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Cryptography-CP-ABE&theme=dark" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Cryptography-CP-ABe&theme=dark" width="400"/>
   </a>
 </div>
  
