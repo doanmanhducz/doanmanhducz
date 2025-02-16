@@ -1,5 +1,9 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Doan Duc, and I am majoring in Information Security. My career orientation in Information Security is focused on roles related to Pentesting, DevSecOps. Machine Learning. <br>
+<p align="center">
+  <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
+</p>
+
 ## 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanduc1704/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/doanmanhducz)
