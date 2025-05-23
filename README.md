@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Doan Duc, and I am majoring in Information Security. My career orientation in Information Security is focused on roles related to Pentesting, DevSecOps. Machine Learning. <br>
+I'm Doan Duc, an Information Security major with a strong interest in Pentesting, DevSecOps, and applying Machine Learning in cybersecurity. I have hands-on experience in vulnerability research and exploitation, and I'm passionate about anti-phishing and threat analysis. I thrive in team environments and am always eager to learn.
+<br>
 <p align="center">
   <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
 </p>
