@@ -32,6 +32,10 @@ I'm Doan Duc, an Information Security major with a strong interest in Pentesting
    <a href="https://github.com/doanmanhducz/Steganography">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Steganography&theme=tokyonight" width="400"/>
   </a>
+  </a>
+   <a href="https://github.com/doanmanhducz/WebsiteMalwareDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=WebsiteMalwareDetection&theme=nightowl" width="400"/>
+  </a>
 </div>
  
 
