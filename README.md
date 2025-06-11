@@ -23,7 +23,7 @@ I'm Doan Duc, an Information Security major with a strong interest in Pentesting
   <a href="https://github.com/doanmanhducz/YDCC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=YDCc&theme=merko" width="400"/>
   </a>
-  <a href="https://github.com/doanmanhducz/Apollon_MAB_IDS">
+  <a href="https://github.com/doanmanhducz/ApolloN_MAB_IDS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Apollon_MAB_IDS&theme=gruvbox" width="400"/>
   </a>
   <a href="https://github.com/doanmanhducz/Cryptography-CP-ABE">
