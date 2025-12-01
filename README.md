@@ -14,7 +14,7 @@ I'm Doan Duc, an Information Security major with a strong interest in Pentesting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanduc1704/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/doanmanhducz)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doanmanhducz&hide=stars,contribs&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/doanmanhducz/Eureka2024WEB">
