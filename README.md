@@ -14,12 +14,6 @@ I'm Doan Duc, an Information Security major with a strong interest in Pentesting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanduc1704/)&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/doanmanhducz)
 
-### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doanmanhducz&hide=stars,contribs&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doanmanhducz&&langs_count=6&layout=compact&theme=holi&border_color=71a9e&card_width=330px)
-![GitHub Streak](https://streak-stats.demolab.com?user=doanmanhducz&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/doanmanhducz/Eureka2024WEB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doanmanhducz&repo=Eureka2024_Web&theme=radical" width="400"/>
